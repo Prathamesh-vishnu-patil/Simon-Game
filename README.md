@@ -47,7 +47,7 @@ Installation & Setup
 
 Clone the repository:
 
-git clone https://github.com/your-username/simon-says-game.git
+git clone https://github.com/Prathamesh-vishnu-patil/Simon-Game.git
 
 
 Navigate to the project directory:
